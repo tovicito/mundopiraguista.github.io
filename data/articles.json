@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "mp-1792329682801",
+    "slug": "actualizacion-reciente-de-octubre-asistente-de-ia",
+    "title": "Actualización reciente de octubre: Asistente de IA",
+    "category": "OpenKayak",
+    "excerpt": "En esta actualización de octubre, añadimos a la IA de OpenKayak-WearOS para la versión v2.5 (amigablemente se le llamará KayakAI)",
+    "body": "##La actualización de octubre ya está Aquí, y llega cargada de noticias\nEn esta actualización se añade tu nuevo compañero de equipo que te ayudará a entrenar mejor y evitar desconectarte de lo que de verdad importa, remar y no chocar con nadie, KayakAI te ayudará a remar mejor y saber todo sin tener que mirar a la pantalla\n##Comandos\n-Distancia : si le dices distancia a KayakAI, te responderá con tu distancia actual de entreno en la medida configurada\n-Tiempo : te responderá con el tiempo total de la sesión \nHay otros comandos más como velocidad , puedes verlos todos desde la Release de Github\n##Como usar KayakAI\nPara usar KayakAI tienes que pulsar un botón en la pantalla y automáticamente empezara a escucharte, se pretende en actualizaciones posteriores añadir un \"Hey Kayak\" o algo similar\n##Otras cosas en la actualización \nTambién se añadió en ajustes una opción para poder cambiar las unidades de velocidad, como siempre, los 2 apk están en la Release\n\nEsperamos que disfrutes aún más de OpenKayak de lo que ya lo estabas haciendo, seguiremos lanzando más actualizaciones, estar atentos!",
+    "video": "",
+    "readTime": "3 MIN DE LECTURA",
+    "image": "",
+    "updatedAt": "2026-10-18",
+    "createdAt": "2026-10-18"
+  }
+]
